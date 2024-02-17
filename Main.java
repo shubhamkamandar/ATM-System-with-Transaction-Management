@@ -102,6 +102,6 @@ public class Main
 
 
 
-//Run the Program in Terminal
-//javac Main.java
-//java Main
+//Please execute the following command in the terminal to run the program.
+//1) javac Main.java
+//2) java Main
